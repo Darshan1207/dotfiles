@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = darshanseetaram@gmail.com
+	name = Darshan Seetaram
